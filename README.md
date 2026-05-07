@@ -23,7 +23,8 @@
 
 | Script |
 | ------ |
-| [LinuxMint Xfce Config](https://github.com/samwhelp/linuxmint-xfce-adjustment/tree/main/prototype/main/) |
+| [LinuxMint Xfce Config](https://github.com/samwhelp/linuxmint-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
+| [Tool Config](https://github.com/samwhelp/linuxmint-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 | Style Management |
