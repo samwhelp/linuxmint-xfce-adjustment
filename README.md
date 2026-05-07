@@ -44,10 +44,13 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [LinuxMint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
-| [Archlinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
-| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
-| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Xfce Adjustment](https://samwhelp.github.io/xfce-adjustment/) | [GitHub](https://github.com/samwhelp/xfce-adjustment) |
+| [Xubuntu Adjustment](https://samwhelp.github.io/xubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/xubuntu-adjustment) |
+| [Debian Xfce Adjustment](https://samwhelp.github.io/debian-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/debian-xfce-adjustment) |
+| [Fedora Xfce Adjustment](https://samwhelp.github.io/fedora-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-xfce-adjustment) |
+| [Archlinux Xfce Adjustment](https://samwhelp.github.io/archlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-xfce-adjustment) |
+| [Voidlinux Xfce Adjustment](https://samwhelp.github.io/voidlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-xfce-adjustment) |
+| [Solus Xfce Adjustment](https://samwhelp.github.io/solus-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/solus-xfce-adjustment) |
 
 
 
@@ -55,4 +58,3 @@
 ## Samwhelp
 
 * [GitHub](https://github.com/samwhelp)
-
